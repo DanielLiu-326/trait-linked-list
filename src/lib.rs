@@ -9,13 +9,9 @@ mod macros;
 pub use pointers::*;
 pub use linked_list::*;
 
+
+
 use std::fmt::{Debug, Formatter};
-
-
-pub mod test{
-
-
-}
 
 #[test]
 fn test() {
