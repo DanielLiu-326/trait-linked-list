@@ -1,5 +1,5 @@
 # trait-linked-list
-A implementation of intrusive double linked list which can containing types that implement one trait.
+A implementation of intrusive double linked list which can contain types implemented same trait.
 
 
 ```rust
